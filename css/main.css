@@ -167,6 +167,7 @@ h1, .h1 {
 h2, .h2 {
   font-size: 3rem;
   line-height: 1.2;
+  color: #5b4f95;
 }
 
 h3, .h3 {
@@ -2189,8 +2190,8 @@ input::-moz-focus-inner {
   margin-right: 0;
 }
 
-.home-content__social a {
-  color: rgba(255, 255, 255, 0.3);
+{
+  color: #fff;
 }
 
 .home-content__social a:hover,
@@ -2219,7 +2220,7 @@ input::-moz-focus-inner {
   line-height: 5.6rem;
   text-transform: uppercase;
   letter-spacing: .3rem;
-  color: #5b4f96;
+  color: #fff;
   border-bottom: 1px solid transparent;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
