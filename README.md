@@ -1,8 +1,9 @@
 ## Daftar isi:
 * [Intro](#almaftuchin-shop-apps)
-* [Tentang](#aplikasi-belanja-digital-item-terbaik-saat-ini)
-* [Cara Memesan](#bagaimana-cara-memesan)
-* [Kenapa Harus Kami?](#kenapa-harus-kami)
+* [About](#aplikasi-belanja-digital-item-terbaik-saat-ini)
+* [How to order](#bagaimana-cara-memesan)
+* [Payment Method](#pembayaran)
+* [Why Us?](#kenapa-harus-kami)
 * [Pricing](#pricing)
 * [Download Apps](#gabung-bersama-5000-pelanggan-kami-lainnya)
 
@@ -34,6 +35,9 @@ Setelah kamu membuka halaman item, pilih jenis platform dan jenis edisi komputer
 
 ## Lakukan Pembayaran
 Setelah melakukan pemesanan, harap lakukan pembayaran. Kami memberikan banyak metode pembayaran, seperti Bitcoin, Paypal, Skrill, Transfer Bank, Indomaret, Alfamart, QRIS, DANA, Ovo, GoPay, dan Airtm. Pilih pembayaran sesuai dengan apa yang kamu inginkan.
+
+# Metode Pembayaran
+Kami memberikan banyak pilihan metode pembayaran seperti Bitcoin, Paypal, Skrill, Transfer Bank, Indomaret, Alfamart, QRIS, DANA, Ovo, GoPay, dan Airtm. Sehingga memungkinkan kamu untuk memilih pembayaran yang kamu sukai.
 
 ## Pengiriman
 Sesaat setelah kami memverifikasi pembayaran, kami akan segera mengirimkan barang yang di pesan sesuai dengan pesanan atau sesuai intruksi dari pelanggan.
