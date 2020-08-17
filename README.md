@@ -2,7 +2,7 @@
 * [Intro](#almaftuchin-shop-apps)
 * [About](#aplikasi-belanja-digital-item-terbaik-saat-ini)
 * [How to order](#bagaimana-cara-memesan)
-* [Payment Method](#pembayaran)
+* [Payment Method](#metode-pembayaran)
 * [Why Us?](#kenapa-harus-kami)
 * [Pricing](#pricing)
 * [Download Apps](#gabung-bersama-5000-pelanggan-kami-lainnya)
