@@ -82,10 +82,10 @@ Demi kenyamanan pengguna, kami memberikan banyak metode pembayaran sehingga memu
 Download aplikasi kami di Android atau iOS dan segera nikmati kemudahan dalam berbelanja konten digital.
 
 ## Download Almaftuchin Shop Apps
-[Download Apps for Android](https://app.almaftuchin.com/almaftuchin-shop-apps)
+* [Download Apps for Android](https://app.almaftuchin.com/almaftuchin-shop-apps)
 
 ## iOS
-**Coming Soon**
+* **Coming Soon**
 
 ## Website
 https://apps.almaftuchin.com
