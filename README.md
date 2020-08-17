@@ -3,6 +3,7 @@
 * [Tentang](#aplikasi-belanja-digital-item-terbaik-saat-ini)
 * [Cara Memesan](#bagaimana-cara-memesan)
 * [Kenapa Harus Kami?](#kenapa-harus-kami)
+* [Pricing](#pricing)
 * [Download Apps](#gabung-bersama-5000-pelanggan-kami-lainnya)
 
 # Almaftuchin Shop Apps
@@ -57,6 +58,25 @@ Kami memiliki tim dukungan yang ramah dan siap membantu pelanggan kapanpun selam
 
 ## Payments
 Demi kenyamanan pengguna, kami memberikan banyak metode pembayaran sehingga memungkinkan pelanggan dapat memilih pembayaran yang mereka sukai dan pastinya aman.
+
+## Pricing
+### Free Member
+- [x] Secure Payment
+- [x] Fast Delivery
+- [x] Guarantee
+- [x] Personal Used
+- [x] 30 Days Support
+- [ ] Special Discount
+- [ ] Reselling
+
+### Reseller
+- [x] Secure Payment
+- [x] Fast Delivery
+- [x] Guarantee
+- [x] Personal Used
+- [x] 30 Days Support
+- [x] Special Discount
+- [x] Reselling
 
 # Gabung bersama 5.000+ pelanggan kami lainnya
 Download aplikasi kami di Android atau iOS dan segera nikmati kemudahan dalam berbelanja konten digital.
