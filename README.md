@@ -88,7 +88,5 @@ Download aplikasi kami di Android atau iOS dan segera nikmati kemudahan dalam be
 * **Coming Soon**
 
 ## Website
-https://apps.almaftuchin.com
-
-## Homepage
-https://www.almaftuchin.com
+* [Apps Intro](https://apps.almaftuchin.com)
+* [Homepage](https://www.almaftuchin.com)
