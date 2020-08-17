@@ -90,3 +90,5 @@ Download aplikasi kami di Android atau iOS dan segera nikmati kemudahan dalam be
 ## Website
 * [Apps Intro](https://apps.almaftuchin.com)
 * [Homepage](https://www.almaftuchin.com)
+
+## [Back to top](#daftar-isi)
