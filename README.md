@@ -1,4 +1,4 @@
-##Daftar isi:
+## Daftar isi:
 * [Intro](#almaftuchin-shop-apps)
 * [Tentang](#aplikasi-belanja-digital-item-terbaik-saat-ini)
 * [Cara Memesan](#bagaimana-cara-memesan)
