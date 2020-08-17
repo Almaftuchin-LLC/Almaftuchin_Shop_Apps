@@ -75,8 +75,8 @@ Demi kenyamanan pengguna, kami memberikan banyak metode pembayaran sehingga memu
 - [x] Guarantee
 - [x] Personal Used
 - [x] Lifetime Support
-- [-] Special Discount
-- [-] Reselling
+- [ ] Special Discount
+- [ ] Reselling
 
 # Gabung bersama 5.000+ pelanggan kami lainnya
 Download aplikasi kami di Android atau iOS dan segera nikmati kemudahan dalam berbelanja konten digital.
