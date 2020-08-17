@@ -74,9 +74,9 @@ Demi kenyamanan pengguna, kami memberikan banyak metode pembayaran sehingga memu
 - [x] Fast Delivery
 - [x] Guarantee
 - [x] Personal Used
-- [x] 30 Days Support
-- [x] Special Discount
-- [x] Reselling
+- [x] Lifetime Support
+- [-] Special Discount
+- [-] Reselling
 
 # Gabung bersama 5.000+ pelanggan kami lainnya
 Download aplikasi kami di Android atau iOS dan segera nikmati kemudahan dalam berbelanja konten digital.
