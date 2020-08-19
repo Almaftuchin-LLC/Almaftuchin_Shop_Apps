@@ -2142,6 +2142,7 @@ input::-moz-focus-inner {
 .home-content__right img {
   vertical-align: bottom;
   margin-top: -5.2rem;
+  -webkit-user-drag: none;
 }
 
 
@@ -3649,6 +3650,8 @@ html.no-csstransitions .home-content__main {
 
 .s-download .download-bottom-image img {
   vertical-align: bottom;
+  border-radius: 5px 5px 0px 0px;
+  -webkit-user-drag: none;
 }
 
 
