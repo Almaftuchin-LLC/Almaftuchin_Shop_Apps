@@ -1,1 +1,8 @@
+User-agent: *
+Disallow:
 
+Sitemap: https://www.almaftuchin.com/sitemap.xml
+Sitemap: https://www.almaftuchin.com/atom.xml?redirect=false&start-index=1&max-results=500
+Sitemap: https://www.almaftuchin.com/atom.xml?redirect=false&start-index=501&max-results=500
+Sitemap: https://www.almaftuchin.com/feeds/posts/default
+Sitemap: https://www.almaftuchin.com/sitemap-pages.xml
