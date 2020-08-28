@@ -3435,6 +3435,7 @@ html.no-csstransitions .home-content__main {
   border-radius: 4px;
   padding: 5.6rem 4.2rem 5.4rem;
   margin-bottom: 4rem;
+  border: 2px solid #5b4f95;
 }
 
 .item-plan__title {
