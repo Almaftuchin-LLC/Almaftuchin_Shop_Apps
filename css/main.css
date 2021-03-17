@@ -3644,6 +3644,9 @@ html.no-csstransitions .home-content__main {
 .s-download .download-badges li a.badge-googleplay {
   background-image: url("../images/google-play.png");
 }
+.s-download .download-badges li a.price-list {
+  background-image: url("../images/price-list.png");
+}
 
 .s-download .download-bottom-image {
   margin-top: 11.2rem;
